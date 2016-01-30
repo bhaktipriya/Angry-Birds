@@ -1,0 +1,18 @@
+1.For waterfall
+2.For Dessert
+
+A:above
+B:below
+
+F:faster
+S:slower
+
+space:fire
+
+UP:zoomin
+DOWN:zoomout
+
+RIGHT:panright
+LEFT:panleft
+
+
