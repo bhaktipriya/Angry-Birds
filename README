@@ -1,0 +1,4 @@
+The conventional 2D angry-birds game, but with a twist. Developed in Opengl3
+
+1. Type make
+2. Run ./main
